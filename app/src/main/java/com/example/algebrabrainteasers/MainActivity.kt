@@ -87,11 +87,10 @@ class MainActivity : AppCompatActivity(), RecyclerAdapter.CellClickListener {
         timerView.text = "$minutesString:$secondsString"
     }
 
-    // Begin timer from wherever the SeekBar currently is
-    // SeekBar is set to automatically update progress as time passes
+    // Begin timer
     private fun startTimer() {
         // TODO: Add timer selection capability
-        val timerLength = 10 * 1000
+        val timerLength = 100 * 1000
 
         timer = object : CountDownTimer(timerLength.toLong(), 1000) {
 

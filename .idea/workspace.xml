@@ -15,7 +15,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="98301FFBA0067R" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_XL_API_R" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -146,5 +146,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/-3200.7.1600.880/0.0.1920.1040@0.0.1920.1040" timestamp="1599877550477" />
+    <state x="781" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1599921117826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="293" key="com.intellij.ide.util.TipDialog/-3200.7.1600.880/0.0.1920.1040@0.0.1920.1040" timestamp="1599921117826" />
   </component>
 </project>
